@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SwaggerDemo</name>
+    </assembly>
+    <members>
+        <member name="M:SwaggerDemo.Controllers.ValuesController.Get">
+            <summary>
+            Get Names
+            </summary>
+            
+        </member>
+        <member name="M:SwaggerDemo.Controllers.ValuesController.Get(System.Int32)">
+            <summary>
+            Get Name by Id
+            </summary>
+        </member>
+    </members>
+</doc>
